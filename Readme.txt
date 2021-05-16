@@ -1,1 +1,0 @@
-This is an amazing e-commerce WebApp structured using MERN .
